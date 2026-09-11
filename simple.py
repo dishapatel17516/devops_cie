@@ -8,3 +8,5 @@ print("Simple Interest: ",+SI)
 amount = p*(1+r/100)**t 
 ci = amount - p
 print("Compound Interest :", +ci)
+
+print("this end of the program")
